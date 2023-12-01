@@ -47,7 +47,7 @@ nav button {
 }
 
 .lang-btn {
-    display: inline-flex;
+    /* display: inline-flex; */
     align-items: center;
     background: transparent;
     border: 1px solid #fff;
